@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/VnCalendar/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/VnCalendar/static/js/main.1ac27560.chunk.js",
+    "main.js.map": "/VnCalendar/static/js/main.1ac27560.chunk.js.map",
+    "runtime-main.js": "/VnCalendar/static/js/runtime-main.e4befafc.js",
+    "runtime-main.js.map": "/VnCalendar/static/js/runtime-main.e4befafc.js.map",
+    "static/js/2.994f3ddd.chunk.js": "/VnCalendar/static/js/2.994f3ddd.chunk.js",
+    "static/js/2.994f3ddd.chunk.js.map": "/VnCalendar/static/js/2.994f3ddd.chunk.js.map",
+    "static/js/3.39f54dd6.chunk.js": "/VnCalendar/static/js/3.39f54dd6.chunk.js",
+    "static/js/3.39f54dd6.chunk.js.map": "/VnCalendar/static/js/3.39f54dd6.chunk.js.map",
+    "index.html": "/VnCalendar/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/VnCalendar/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.994f3ddd.chunk.js.LICENSE.txt": "/VnCalendar/static/js/2.994f3ddd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/VnCalendar/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4befafc.js",
+    "static/js/2.994f3ddd.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1ac27560.chunk.js"
+  ]
+}
