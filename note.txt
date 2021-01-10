@@ -1,0 +1,1 @@
+remove (node_modules/.cache/gh-pages) before "npm run deploy"
